@@ -50,13 +50,15 @@ public class TemaModel {
 		this.id = id;
 	}
 
-	public String getTemas() {
+	public String getTema() {
 		return tema;
 	}
 
-	public void setTema(String temas) {
-		this.tema = temas;
+	public void setTema(String tema) {
+		this.tema = tema;
 	}
+
+	
 	
 	
 }
